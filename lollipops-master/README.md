@@ -136,3 +136,7 @@ Code contributions are expected to be properly formatted with `go fmt`, and gene
 
 Lollipops is released under the [GPL license](LICENSE). If your institution requires
 additional licensing options please contact the author.
+
+/lollipops TP53 R273C R175H T125 R248Q
+
+lollipops TP53 R273C R175H T125 R248Q

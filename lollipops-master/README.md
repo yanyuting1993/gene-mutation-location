@@ -17,6 +17,7 @@ Basic usage is just the gene symbol (ex: ``TP53``) and a list of
 mutations (ex: ``R273C R175H T125 R248Q``)
 
     ./lollipops TP53 R273C R175H T125 R248Q
+    ./lollipops TP53 R273C R175H T125
 
 ![TP53 Lollipop diagram with 4 marked mutations](tp53.png?raw=true)
 
